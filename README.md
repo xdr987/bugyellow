@@ -1,7 +1,9 @@
 ## HELLO,优课达！！
 ## 今天学习了Markdown  
- MarkDown是一种超文本语言,今天我第一次学习了它。  
+ MarkDown是一种超文本语言,今天我第一次学习了它。
+ 
     Hello MarkDown！  
+ 
  接下来我还会学习:  
  1. Git的基本命令
  1. Hexo框架

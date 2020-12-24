@@ -18,3 +18,14 @@
 
 ![](https://qgt-style.oss-cn-hangzhou.aliyuncs.com/newcoursep4/g1/g1-2-2/tenor.gif)    
 
+1.提交的第一步
+git add -A
+2.提交的第二步
+git commit -m""
+3.提交的第三步
+第一次提交时git push origin main
+以后提交时git push
+4.提交其他分支
+git push origin b
+5.抓取仓库的内容
+git pull
